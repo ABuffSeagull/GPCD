@@ -1,16 +1,5 @@
-# gcpd
-> Built with [Elm Land](https://elm.land) 🌈
+# GCPD
 
-## Local development
+An alternate dashboard for GCP.
 
-```bash
-# Requires Node.js v18+ (https://nodejs.org)
-npx elm-land server
-```
-
-## Deploying to production
-
-Elm Land projects are most commonly deployed as static websites. 
-
-Please visit [the "Deployment" guide](https://elm.land/guide/deploying) to learn more
-about deploying your app for free using Netlify or Vercel.
+It's more for myself, so no guarentee for how good this is.
