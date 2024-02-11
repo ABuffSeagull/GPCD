@@ -8,3 +8,7 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+[dev]
+command = "elm-land server"
+targetPort = 1234
