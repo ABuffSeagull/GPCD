@@ -5,3 +5,5 @@
 /node_modules
 .DS_Store
 *.pem
+# Local Netlify folder
+.netlify
